@@ -28,6 +28,13 @@ The scraper logs into LinkedIn via **manual authentication**, reuses the authent
 
 ## ⚙️ Setup Instructions
 
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/ShraddhaAlhat/linkdin_scraper_pdb.git
+cd linkdin_scraper_pdb
+```
+
 ### 1️⃣ Activate Virtual Environment
 
 ```bash
