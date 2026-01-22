@@ -93,7 +93,7 @@ profile_data.json
 
 ---
 
-## 🧠 Approach Explanation (Interview Ready)
+## 🧠 Approach Explanation 
 
 ### 🔹 Why Manual Login?
 
